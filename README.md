@@ -108,22 +108,13 @@ A story-driven indie game built with **Godot 4**, focusing on emotional storytel
 
 ---
 
-## 🎵 Spotify Now Playing
-<p align="center">
-  <a href="https://open.spotify.com/user/spotify">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=spotify&cover_image=true&theme=novathemepack&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
-  </a>
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
   <a href="https://instagram.com/zilfasyh" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://linkedin.com/in/zilfa-ardiansyah-a764753a4" target="_blank">
+  <a href="www.linkedin.com/in/aulia-raditama-0a11a9426" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
