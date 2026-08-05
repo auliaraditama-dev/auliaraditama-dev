@@ -103,7 +103,7 @@ A story-driven indie game built with **Godot 4**, focusing on emotional storytel
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/auliaraditama-dev/auliaraditama-dev/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/auliaraditama-dev/auliaraditama.dev/bd5ba5190e4e2ba8fae0974a35aa3beaf2ba0bc2/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 </p>
 
 ---
