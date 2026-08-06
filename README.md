@@ -84,7 +84,7 @@ A story-driven indie game built with **Godot 4**, focusing on emotional storytel
 
 ---
 
-## GitHub Analytics & Stats
+## Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=auliaraditama-dev&theme=tokyonight&hide_border=true&background=1a1b27" alt="Streak" width="97%" />
@@ -100,7 +100,7 @@ A story-driven indie game built with **Godot 4**, focusing on emotional storytel
 
 ---
 
-## Contribution Snake
+## Contribution
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/auliaraditama-dev/auliaraditama.dev/bd5ba5190e4e2ba8fae0974a35aa3beaf2ba0bc2/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
