@@ -158,7 +158,7 @@ A story-driven indie game built with **Godot 4**, focusing on emotional storytel
 <br>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="40px" alt="Giphy animation">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200px" alt="Giphy animation">
   <br><br>
   <b>Thanks for visiting my profile!</b> <br />
   <i>"Code. Create. Learn. Repeat."</i>
