@@ -132,7 +132,7 @@ A story-driven indie game built with **Godot 4**, focusing on emotional storytel
       </td>
       <td width="50%" align="center">
         <b>Currently Listening To</b><br><br>
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=spotify&cover_image=true&theme=tokyonight&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" onerror="this.src='https://spotify-github-profile.vercel.app/api/view?uid=31w5ydtzyt6f7w6ezt5b4qf63u6a&cover_image=true&theme=tokyonight'" />
+        <!-- <img src="https://spotify-github-profile.vercel.app/api/view?uid=spotify&cover_image=true&theme=tokyonight&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" onerror="this.src='https://spotify-github-profile.vercel.app/api/view?uid=31w5ydtzyt6f7w6ezt5b4qf63u6a&cover_image=true&theme=tokyonight'" /> -->
       </td>
     </tr>
   </table>
