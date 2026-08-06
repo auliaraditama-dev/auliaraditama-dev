@@ -10,18 +10,20 @@
 
 ---
 
-## About Me
+## Apa yang Saya Kerjakan?
 
-I'm a developer from Indonesia who enjoys building web applications and narrative-driven games. 
+| Bidang | Fokus & Teknologi Utama | Deskripsi Singkat |
+| :--- | :--- | :--- |
+| **Full Stack Web** | Performa, Keamanan, Skalabilitas | Membangun aplikasi web yang handal, efisien, dan aman digunakan. |
+| **Indie Game Dev** | Godot Engine, Mekanik Game | Merancang mekanik permainan dan menghadirkan dunia visual yang imersif. |
 
-* **Full Stack Web Developer:** Memiliki fokus utama pada performa sistem, keamanan, dan skalabilitas aplikasi.
-* **Indie Game Developer:** Menggunakan Godot Engine untuk merancang mekanik permainan dan menciptakan dunia visual yang imersif.
-* **Pembelajar Aktif:** Selalu meluangkan waktu untuk mendalami praktik terbaik dalam pemrograman, khususnya arsitektur kode bersih (clean code).
+---
 
-### Fun Facts
-> **Lokasi:** Berbasis di Indonesia
-> **Bahan Bakar:** Powered by Coffee and Lo-Fi Beats
-> **Minat:** Story-rich game enthusiast
+## Filosofi & Hobi
+
+* **Clean Code Advocate:** Selalu meluangkan waktu untuk mendalami dan menerapkan praktik terbaik dalam penulisan arsitektur kode yang bersih.
+* **☕ Fuel:** *Powered by Coffee and Lo-Fi Beats*
+* **🎮 Passion:** *Story-rich game enthusiast* yang selalu mencari inspirasi dari narasi game yang mendalam.
 
 ---
 
@@ -40,6 +42,7 @@ I'm a developer from Indonesia who enjoys building web applications and narrativ
     <td valign="top" width="33%">
       <h4>Frameworks & Engines</h4>
       <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+      <img src="https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
       <img src="https://img.shields.io/badge/godot-%23478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot" />
       <br /><br />
       <h4>Database</h4>
@@ -53,6 +56,7 @@ I'm a developer from Indonesia who enjoys building web applications and narrativ
       <img src="https://img.shields.io/badge/GitHub_Desktop-%23802392.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Desktop" />
       <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
       <img src="https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
     </td>
   </tr>
 </table>
@@ -80,27 +84,10 @@ A story-driven indie game built with **Godot 4**, focusing on emotional storytel
 
 ---
 
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=auliaraditama-dev&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&v=1" alt="Trophy" width="100%" />
-</p>
-
----
-
 ## GitHub Analytics & Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=auliaraditama-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&v=1" alt="Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=auliaraditama-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&v=1" alt="Top Langs" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=auliaraditama-dev&theme=tokyonight&hide_border=true&background=1a1b27" alt="Streak" width="97%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=auliaraditama-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="WakaTime Stats" width="97%" onerror="this.style.display='none'" />
 </p>
 
 ---
