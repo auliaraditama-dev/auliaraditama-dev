@@ -130,7 +130,7 @@ A story-driven indie game built with **Godot 4**, focusing on emotional storytel
 ## Let's Connect!
 
 <p align="center">
-  <a href="#" target="_blank">
+  <a href="https://www.instagram.com/auulaja_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
   
@@ -140,10 +140,6 @@ A story-driven indie game built with **Godot 4**, focusing on emotional storytel
   
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
   </a>
   
   <a href="#" target="_blank">
