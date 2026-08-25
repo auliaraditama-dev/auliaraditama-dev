@@ -63,19 +63,6 @@
 
 ---
 
-## Current Projects
-
-### [ A Sky That Never Reached ]
-*Narrative Adventure | Psychological Drama | Mystery*
-
-> *"Some memories never reached their destination."*
-
-A story-driven indie game built with **Godot 4**, focusing on emotional storytelling, exploration, and memory-based puzzles. Pengembangan ini memadukan desain naratif yang kuat dengan mekanika permainan interaktif.
-
-*(More info & devlogs coming soon!)*
-
----
-
 ## Currently Learning
 
 * **Advanced Laravel:** Mendalami REST API Development, otentikasi kompleks, dan optimasi query.
