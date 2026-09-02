@@ -1,9 +1,9 @@
 <div align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,35:1E3A8A,70:2563EB,100:06B6D4&height=270&section=header&text=Aulia%20Raditama&fontSize=66&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20Backend%20Enthusiast%20%E2%80%A2%20Indie%20Game%20Developer&descAlignY=56&descAlign=50"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:0F172A,65:1D4ED8,100:06B6D4&height=260&section=header&text=Aulia%20Raditama&fontSize=64&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20Backend%20Enthusiast%20%E2%80%A2%20Indie%20Game%20Developer&descAlignY=56&descAlign=50"
 width="100%"
-alt="Aulia Raditama Developer Banner"
+alt="Aulia Raditama"
 />
 
 # Hi, I'm Aulia Raditama
@@ -11,13 +11,13 @@ alt="Aulia Raditama Developer Banner"
 ### Full Stack Developer • Backend Enthusiast • Indie Game Developer
 
 <p>
-  Building structured web applications, maintainable backend systems,
-  REST APIs, and experimental game projects.
+Building structured web applications, maintainable backend systems,
+REST APIs, databases, and experimental game projects.
 </p>
 
 <img
-src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Development;Laravel+%26+Backend+Development;REST+API+Development;Clean+Architecture+%26+Design+Patterns;Database+Design+%26+Optimization;Godot+4+Game+Development;Build.+Learn.+Refactor.+Improve."
-alt="Aulia Raditama Developer Typing Animation"
+src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Development;PHP+%26+Laravel+Development;REST+API+Architecture;Database+Design+%26+Optimization;Clean+Architecture+%26+SOLID;Godot+4+Game+Development;Code.+Create.+Learn.+Repeat."
+alt="Typing Animation"
 />
 
 <br>
@@ -25,7 +25,7 @@ alt="Aulia Raditama Developer Typing Animation"
 
 <a href="https://github.com/auliaraditama-dev">
   <img
-    src="https://komarev.com/ghpvc/?username=auliaraditama-dev&label=PROFILE+VIEWS&color=2563EB&style=for-the-badge"
+    src="https://komarev.com/ghpvc/?username=auliaraditama-dev&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge"
     alt="Profile Views"
   />
 </a>
@@ -36,7 +36,7 @@ alt="GitHub Followers"
 />
 
 <img
-src="https://img.shields.io/github/stars/auliaraditama-dev?affiliations=OWNER&label=TOTAL%20STARS&style=for-the-badge&logo=github&color=0891B2"
+src="https://img.shields.io/github/stars/auliaraditama-dev?affiliations=OWNER&label=STARS&style=for-the-badge&logo=github&logoColor=white&color=0891B2"
 alt="GitHub Stars"
 />
 
@@ -44,23 +44,23 @@ alt="GitHub Stars"
 <br>
 
 <img
-src="https://img.shields.io/badge/FOCUS-Backend%20Development-2563EB?style=flat-square"
-alt="Backend Development"
-/>
-
-<img
-src="https://img.shields.io/badge/FRAMEWORK-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"
+src="https://img.shields.io/badge/Backend-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"
 alt="Laravel"
 />
 
 <img
-src="https://img.shields.io/badge/GAME%20ENGINE-Godot%204-478CBF?style=flat-square&logo=godot-engine&logoColor=white"
-alt="Godot 4"
+src="https://img.shields.io/badge/API-REST-2563EB?style=flat-square"
+alt="REST API"
 />
 
 <img
-src="https://img.shields.io/badge/LEARNING-Clean%20Architecture-06B6D4?style=flat-square"
+src="https://img.shields.io/badge/Architecture-Clean%20Architecture-0891B2?style=flat-square"
 alt="Clean Architecture"
+/>
+
+<img
+src="https://img.shields.io/badge/Game%20Engine-Godot%204-478CBF?style=flat-square&logo=godot-engine&logoColor=white"
+alt="Godot 4"
 />
 
 <br>
@@ -69,6 +69,7 @@ alt="Clean Architecture"
 <a href="#about-me">About</a>
   •   <a href="#what-i-do">What I Do</a>
   •   <a href="#tech-stack">Tech Stack</a>
+  •   <a href="#architecture--engineering">Architecture</a>
   •   <a href="#currently-learning">Learning</a>
   •   <a href="#github-statistics">Statistics</a>
   •   <a href="#connect-with-me">Connect</a>
@@ -118,15 +119,19 @@ $developer = [
 
     'architecture' => [
         'MVC',
+        'SOLID',
         'Service Layer',
         'Repository Pattern',
-        'SOLID',
         'Design Patterns',
     ],
 
-    'editor' => 'Visual Studio Code',
+    'tools' => [
+        'Git',
+        'GitHub',
+        'Visual Studio Code',
+    ],
 
-    'os' => [
+    'platform' => [
         'Windows',
         'Linux',
     ],
@@ -135,73 +140,77 @@ $developer = [
 ];
 ```
 
-Saya tertarik pada pengembangan aplikasi yang tidak hanya **berjalan**, tetapi juga memiliki struktur yang jelas, mudah dikembangkan, aman, dan dapat dipelihara dalam jangka panjang.
+Saya tertarik pada pengembangan aplikasi yang tidak hanya **berjalan**, tetapi juga memiliki struktur yang jelas, aman, mudah dikembangkan, dan dapat dipelihara dalam jangka panjang.
 
-Fokus utama saya berada pada pengembangan **web full-stack**, terutama sisi backend menggunakan **PHP dan Laravel**, pembangunan **REST API**, pengelolaan database, serta penerapan prinsip arsitektur perangkat lunak yang lebih terstruktur.
+Fokus utama saya berada pada pengembangan **web full-stack**, terutama backend menggunakan **PHP dan Laravel**, pembangunan **REST API**, pengelolaan database, authentication, authorization, serta penerapan prinsip arsitektur perangkat lunak yang terstruktur.
 
-Di luar web development, saya juga mempelajari **game development menggunakan Godot 4 dan GDScript**, terutama gameplay system, state management, scene architecture, UI, particle system, dan pengembangan game 2D.
+Di luar web development, saya juga mempelajari **game development menggunakan Godot 4 dan GDScript**, terutama gameplay systems, scene architecture, state machine, UI, particle systems, save system, narrative, dan pengembangan game 2D.
 
 ---
 
 # Current Direction
 
-<div align="center">
-
 <table>
 <tr>
 
-<td width="25%" align="center" valign="top">
+<td width="50%" valign="top">
 
-### Backend
+### Backend Engineering
 
-Laravel
-REST API
-Authentication
-Authorization
-Security
-
-</td>
-
-<td width="25%" align="center" valign="top">
-
-### Architecture
-
-Clean Code
-SOLID
-MVC
-Service Layer
-Repository Pattern
+`Laravel`
+`REST API`
+`Authentication`
+`Authorization`
+`Validation`
+`Application Security`
 
 </td>
 
-<td width="25%" align="center" valign="top">
+<td width="50%" valign="top">
 
-### Database
+### Software Architecture
 
-MySQL
-SQLite
-Relational Design
-Query Optimization
-Data Integrity
+`Clean Code`
+`SOLID`
+`MVC`
+`Service Layer`
+`Repository Pattern`
+`Design Patterns`
 
 </td>
 
-<td width="25%" align="center" valign="top">
+</tr>
 
-### Game Dev
+<tr>
 
-Godot 4
-GDScript
-Gameplay
-Game UI
-2D Systems
+<td width="50%" valign="top">
+
+### Database Engineering
+
+`MySQL`
+`SQLite`
+`Relational Design`
+`Indexing`
+`Query Optimization`
+`Data Integrity`
+
+</td>
+
+<td width="50%" valign="top">
+
+### Game Development
+
+`Godot 4`
+`GDScript`
+`Gameplay Systems`
+`State Machine`
+`Game UI`
+`2D Game Development`
 
 </td>
 
 </tr>
 </table>
-
-</div>
 
 ---
 
@@ -212,22 +221,22 @@ Game UI
 
 <td width="50%" valign="top">
 
-## Full Stack Web Development
+## Full Stack Development
 
 Mengembangkan aplikasi web dengan fokus pada:
 
-* Struktur aplikasi yang scalable
-* Backend yang terorganisir
+* Structured backend architecture
 * REST API
 * Authentication
 * Authorization
-* Validation
-* Database Design
-* Query Optimization
-* Application Security
-* Responsive Interface
-* Integrasi frontend dan backend
-* Maintainable Code
+* Request validation
+* Error handling
+* Database design
+* Query optimization
+* Application security
+* Responsive frontend
+* Frontend/backend integration
+* Maintainable code
 
 ### Main Stack
 
@@ -239,21 +248,21 @@ Mengembangkan aplikasi web dengan fokus pada:
 
 ## Indie Game Development
 
-Mengembangkan dan mempelajari sistem game menggunakan:
+Mempelajari dan membangun sistem game menggunakan:
 
 * Godot Engine
 * GDScript
-* Gameplay Mechanics
-* Character Controller
-* State Machine
-* Scene Architecture
-* Game State Management
-* 2D Game Systems
-* Particle Systems
+* Gameplay mechanics
+* Character controller
+* State machine
+* Scene architecture
+* Game state management
+* 2D game systems
+* Particle systems
 * Game UI
-* Save System
-* Narrative Design
-* Level Design
+* Save system
+* Narrative design
+* Level design
 
 ### Main Stack
 
@@ -271,35 +280,39 @@ Mengembangkan dan mempelajari sistem game menggunakan:
 <table>
 <tr>
 
-<td align="center" width="25%" valign="top">
+<td width="50%" valign="top">
 
 ### Clean Code
 
-Kode harus mudah dibaca, dipahami, diuji, dan dikembangkan.
+Kode harus mudah dibaca dan dipahami oleh developer lain maupun diri sendiri di masa depan.
 
 </td>
 
-<td align="center" width="25%" valign="top">
+<td width="50%" valign="top">
 
 ### Architecture
 
-Setiap bagian aplikasi harus memiliki tanggung jawab yang jelas.
+Setiap layer dan component harus memiliki responsibility yang jelas.
 
 </td>
 
-<td align="center" width="25%" valign="top">
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ### Security
 
-Keamanan harus menjadi bagian dari desain aplikasi sejak awal.
+Authentication, authorization, validation, dan data protection harus dipikirkan sejak awal.
 
 </td>
 
-<td align="center" width="25%" valign="top">
+<td width="50%" valign="top">
 
 ### Continuous Learning
 
-Setiap project menjadi kesempatan untuk memperbaiki cara membangun software.
+Setiap project digunakan sebagai kesempatan untuk memperbaiki technical skill dan cara membangun software.
 
 </td>
 
@@ -312,168 +325,74 @@ Setiap project menjadi kesempatan untuk memperbaiki cara membangun software.
 
 ## Programming Languages
 
-<p align="left">
+<p align="center">
 
-<img
-src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"
-alt="PHP"
-/>
-
-<img
-src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
-alt="JavaScript"
-/>
-
-<img
-src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54"
-alt="Python"
-/>
-
-<img
-src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white"
-alt="GDScript"
-/>
-
-<img
-src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
-alt="HTML5"
-/>
-
-<img
-src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
-alt="CSS3"
-/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=FFDD54" alt="Python"/>
+<img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="GDScript"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 
 </p>
 
-## Frameworks & Libraries
+## Frameworks & UI
 
-<p align="left">
+<p align="center">
 
-<img
-src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"
-alt="Laravel"
-/>
-
-<img
-src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"
-alt="Bootstrap"
-/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 
 </p>
 
-## Backend Development
+## Backend
 
-<p align="left">
+<p align="center">
 
-<img
-src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"
-alt="REST API"
-/>
-
-<img
-src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"
-alt="JSON"
-/>
-
-<img
-src="https://img.shields.io/badge/MVC-1E40AF?style=for-the-badge"
-alt="MVC"
-/>
-
-<img
-src="https://img.shields.io/badge/SOLID-0F172A?style=for-the-badge"
-alt="SOLID"
-/>
-
-<img
-src="https://img.shields.io/badge/Clean_Architecture-0891B2?style=for-the-badge"
-alt="Clean Architecture"
-/>
+<img src="https://img.shields.io/badge/REST_API-2563EB?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
+<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
+<img src="https://img.shields.io/badge/MVC-0F172A?style=for-the-badge" alt="MVC"/>
+<img src="https://img.shields.io/badge/SOLID-1E40AF?style=for-the-badge" alt="SOLID"/>
+<img src="https://img.shields.io/badge/Clean_Architecture-0891B2?style=for-the-badge" alt="Clean Architecture"/>
 
 </p>
 
 ## Database
 
-<p align="left">
+<p align="center">
 
-<img
-src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"
-alt="MySQL"
-/>
-
-<img
-src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"
-alt="SQLite"
-/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
 
 </p>
 
 ## Game Development
 
-<p align="left">
+<p align="center">
 
-<img
-src="https://img.shields.io/badge/Godot_4-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white"
-alt="Godot 4"
-/>
-
-<img
-src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white"
-alt="GDScript"
-/>
-
-<img
-src="https://img.shields.io/badge/Game_Development-0F172A?style=for-the-badge&logo=godot-engine&logoColor=white"
-alt="Game Development"
-/>
-
-<img
-src="https://img.shields.io/badge/2D_Game_Systems-2563EB?style=for-the-badge"
-alt="2D Game Systems"
-/>
+<img src="https://img.shields.io/badge/Godot_4-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot 4"/>
+<img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="GDScript"/>
+<img src="https://img.shields.io/badge/2D_Game_Development-2563EB?style=for-the-badge&logo=godot-engine&logoColor=white" alt="2D Game Development"/>
 
 </p>
 
 ## Development Tools
 
-<p align="left">
+<p align="center">
 
-<img
-src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"
-alt="Git"
-/>
-
-<img
-src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-alt="GitHub"
-/>
-
-<img
-src="https://img.shields.io/badge/GitHub_Desktop-8034A9?style=for-the-badge&logo=github&logoColor=white"
-alt="GitHub Desktop"
-/>
-
-<img
-src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"
-alt="Visual Studio Code"
-/>
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub_Desktop-8034A9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Desktop"/>
+<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 
 </p>
 
 ## Operating Systems
 
-<p align="left">
+<p align="center">
 
-<img
-src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"
-alt="Windows"
-/>
-
-<img
-src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
-alt="Linux"
-/>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 
 </p>
 
@@ -481,58 +400,26 @@ alt="Linux"
 
 # Skill Overview
 
-<table>
-
-<tr>
-<td><strong>Backend</strong></td>
-<td>PHP, Laravel, REST API, Validation, Authentication, Authorization</td>
-</tr>
-
-<tr>
-<td><strong>Frontend</strong></td>
-<td>HTML5, CSS3, JavaScript, Bootstrap, Responsive UI</td>
-</tr>
-
-<tr>
-<td><strong>Database</strong></td>
-<td>MySQL, SQLite, Relational Design, Query Optimization</td>
-</tr>
-
-<tr>
-<td><strong>Architecture</strong></td>
-<td>MVC, SOLID, Service Layer, Repository Pattern, Design Patterns</td>
-</tr>
-
-<tr>
-<td><strong>Security</strong></td>
-<td>Input Validation, Authentication, Authorization, Secure Application Design</td>
-</tr>
-
-<tr>
-<td><strong>API</strong></td>
-<td>REST API, JSON, HTTP, Validation, Error Handling</td>
-</tr>
-
-<tr>
-<td><strong>Game Development</strong></td>
-<td>Godot Engine, GDScript, Gameplay Systems, Scene Architecture, Game UI</td>
-</tr>
-
-<tr>
-<td><strong>Version Control</strong></td>
-<td>Git, GitHub, GitHub Desktop</td>
-</tr>
-
-<tr>
-<td><strong>Environment</strong></td>
-<td>Windows, Linux, Visual Studio Code</td>
-</tr>
-
-</table>
+| Area                 | Technologies / Concepts                                  |
+| -------------------- | -------------------------------------------------------- |
+| **Backend**          | PHP, Laravel, REST API, Validation                       |
+| **Authentication**   | Login Systems, Authentication, Sessions                  |
+| **Authorization**    | Policies, Middleware, Role-based Access                  |
+| **Frontend**         | HTML5, CSS3, JavaScript, Bootstrap                       |
+| **Database**         | MySQL, SQLite, Relational Design                         |
+| **Optimization**     | Query Optimization, Indexing                             |
+| **Architecture**     | MVC, SOLID, Service Layer, Repository Pattern            |
+| **API**              | REST, JSON, HTTP, API Resources                          |
+| **Security**         | Validation, Authentication, Authorization, Secure Design |
+| **Game Development** | Godot 4, GDScript, Gameplay Systems                      |
+| **Version Control**  | Git, GitHub, GitHub Desktop                              |
+| **Environment**      | Windows, Linux, Visual Studio Code                       |
 
 ---
 
-# Architecture & Engineering Focus
+# Architecture & Engineering
+
+## Application Structure
 
 ```text
 Application
@@ -540,6 +427,7 @@ Application
 ├── Presentation Layer
 │   ├── Routes
 │   ├── Controllers
+│   ├── Middleware
 │   ├── Requests
 │   └── API Resources
 │
@@ -549,10 +437,11 @@ Application
 │   ├── Use Cases
 │   └── Validation
 │
-├── Domain / Business Logic
-│   ├── Rules
+├── Domain Layer
+│   ├── Business Rules
 │   ├── Entities
-│   └── Business Processes
+│   ├── Contracts
+│   └── Domain Logic
 │
 ├── Data Layer
 │   ├── Models
@@ -566,12 +455,51 @@ Application
     ├── Queue
     ├── Events
     ├── Logging
+    ├── Cache
     └── External Services
 ```
 
-Prinsip yang ingin saya terapkan:
+### Engineering Principles
 
-`Separation of Concerns` · `SOLID` · `Dependency Injection` · `Reusable Components` · `Secure Defaults` · `Maintainability`
+<div align="center">
+
+`Separation of Concerns`
+  •  
+`SOLID`
+  •  
+`Dependency Injection`
+  •  
+`Reusable Components`
+
+`Secure Defaults`
+  •  
+`Maintainability`
+  •  
+`Testability`
+  •  
+`Scalability`
+
+</div>
+
+---
+
+# Backend Request Lifecycle
+
+```mermaid
+flowchart LR
+    A[Client] --> B[Route]
+    B --> C[Middleware]
+    C --> D[Controller]
+    D --> E[Request Validation]
+    E --> F[Service Layer]
+    F --> G[Repository / Model]
+    G --> H[(Database)]
+    H --> G
+    G --> F
+    F --> D
+    D --> I[API Resource]
+    I --> J[JSON Response]
+```
 
 ---
 
@@ -580,7 +508,7 @@ Prinsip yang ingin saya terapkan:
 <table>
 <tr>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ## Advanced Laravel
 
@@ -590,51 +518,72 @@ Prinsip yang ingin saya terapkan:
 * Policies
 * Middleware
 * Form Request
-* API Resource
+* API Resources
 * Service Layer
 * Repository Pattern
 * Queue & Jobs
 * Events & Listeners
-* Database Optimization
-* API Security
-* Testing
+* Database optimization
+* API security
+* Automated testing
 
 </td>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ## Clean Architecture
 
-* SOLID Principles
-* Separation of Concerns
-* Dependency Injection
-* Repository Pattern
-* Service Pattern
+* SOLID principles
+* Separation of concerns
+* Dependency injection
+* Repository pattern
+* Service pattern
 * DTO
-* Domain Logic
-* Design Patterns
-* Maintainable Code
-* Scalable Architecture
+* Domain logic
+* Design patterns
+* Maintainable code
+* Scalable architecture
 * Refactoring
-* Testing Strategy
+* Testing strategy
 
 </td>
 
-<td width="33%" valign="top">
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## Database Engineering
+
+* Relational design
+* Indexing
+* Query optimization
+* Relationships
+* Transactions
+* Data integrity
+* Database security
+* Migration strategy
+* Efficient querying
+* Data modeling
+
+</td>
+
+<td width="50%" valign="top">
 
 ## Godot 4
 
 * GDScript
-* Scene Architecture
-* Nodes & Signals
-* State Machine
-* Character Controller
+* Scene architecture
+* Nodes & signals
+* State machine
+* Character controller
 * Game UI
-* Particle System
-* Save System
-* Game State
-* Narrative System
-* Level Design
+* Particle system
+* Save system
+* Game state
+* Narrative system
+* Level design
 * Optimization
 
 </td>
@@ -658,9 +607,10 @@ Full Stack Developer
 │   ├── Validation
 │   ├── Queue & Jobs
 │   ├── Events & Listeners
+│   ├── Caching
 │   ├── Database Optimization
 │   ├── Application Security
-│   └── Testing
+│   └── Automated Testing
 │
 ├── Software Architecture
 │   ├── Clean Code
@@ -694,10 +644,11 @@ Full Stack Developer
 │   ├── Branching
 │   ├── Pull Requests
 │   ├── Code Review
+│   ├── GitHub Actions
 │   └── CI / Automation
 │
 └── Game Development
-    ├── Godot Engine
+    ├── Godot 4
     ├── GDScript
     ├── Scene Architecture
     ├── Gameplay Programming
@@ -716,16 +667,18 @@ Full Stack Developer
 ```text
 01. Build cleaner Laravel applications
 02. Improve REST API architecture
-03. Learn advanced authentication and authorization
+03. Improve authentication & authorization
 04. Improve database query performance
 05. Apply SOLID principles consistently
-06. Improve application security practices
+06. Improve application security
 07. Learn reusable software design patterns
 08. Build scalable project structures
-09. Improve Git and GitHub workflow
+09. Improve Git & GitHub workflow
 10. Learn automated testing
-11. Master Godot 4 architecture
-12. Build better projects every iteration
+11. Explore GitHub Actions
+12. Improve Godot 4 architecture
+13. Build reusable gameplay systems
+14. Build better projects every iteration
 ```
 
 ---
@@ -733,37 +686,67 @@ Full Stack Developer
 # How I Approach Development
 
 ```text
-Problem
-  │
-  ▼
+Idea / Problem
+      │
+      ▼
 Requirement Analysis
-  │
-  ▼
-Data & Domain Modeling
-  │
-  ▼
+      │
+      ▼
+Domain & Data Modeling
+      │
+      ▼
 Architecture Planning
-  │
-  ▼
+      │
+      ▼
 Implementation
-  │
-  ▼
-Validation & Testing
-  │
-  ▼
+      │
+      ▼
+Validation
+      │
+      ▼
+Testing
+      │
+      ▼
 Security Review
-  │
-  ▼
+      │
+      ▼
+Optimization
+      │
+      ▼
 Refactoring
-  │
-  ▼
+      │
+      ▼
 Documentation
-  │
-  ▼
+      │
+      ▼
 Git Commit / Pull Request
-  │
-  ▼
+      │
+      ▼
+Review
+      │
+      ▼
 Iteration & Improvement
+```
+
+---
+
+# Development Workflow
+
+```mermaid
+flowchart LR
+    A[Idea] --> B[Planning]
+    B --> C[Requirements]
+    C --> D[Architecture]
+    D --> E[Development]
+    E --> F[Testing]
+    F --> G[Security]
+    G --> H[Optimization]
+    H --> I[Refactor]
+    I --> J[Git]
+    J --> K[GitHub]
+    K --> L[Review]
+    L --> M[Improve]
+    M --> A
 ```
 
 ---
@@ -773,51 +756,73 @@ Iteration & Improvement
 <table>
 <tr>
 
-<td width="33%" align="center" valign="top">
+<td width="50%" valign="top">
 
 ## Web Applications
 
-Structured full-stack applications focused on maintainability and backend architecture.
+Full-stack applications dengan backend architecture yang terstruktur.
 
-`Laravel`
+**Focus**
 
-`PHP`
-
-`MySQL`
-
-`JavaScript`
+* Laravel
+* PHP
+* MySQL
+* Authentication
+* Authorization
+* Responsive UI
 
 </td>
 
-<td width="33%" align="center" valign="top">
+<td width="50%" valign="top">
 
 ## REST API
 
-API-oriented projects with validation, authentication, authorization, and database integration.
+API-oriented applications dengan validation, security, dan database integration.
 
-`REST`
+**Focus**
 
-`JSON`
-
-`Laravel`
-
-`MySQL`
+* REST
+* JSON
+* Laravel
+* MySQL
+* Authentication
+* API Resources
 
 </td>
 
-<td width="33%" align="center" valign="top">
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## Backend Systems
+
+Eksperimen backend dengan fokus pada struktur dan maintainability.
+
+**Focus**
+
+* Service Layer
+* Repository Pattern
+* SOLID
+* Database Design
+* Security
+
+</td>
+
+<td width="50%" valign="top">
 
 ## Game Projects
 
-Experimental and learning-oriented game projects developed using Godot Engine.
+Experimental game projects dan learning projects menggunakan Godot Engine.
 
-`Godot 4`
+**Focus**
 
-`GDScript`
-
-`2D`
-
-`Game Dev`
+* Godot 4
+* GDScript
+* Gameplay
+* 2D Systems
+* Game Architecture
 
 </td>
 
@@ -828,12 +833,10 @@ Experimental and learning-oriented game projects developed using Godot Engine.
 
 # Developer Mindset
 
-<div align="center">
-
 <table>
 <tr>
 
-<td width="25%" align="center">
+<td width="50%" valign="top">
 
 ### Build
 
@@ -841,34 +844,36 @@ Turn ideas into working systems.
 
 </td>
 
-<td width="25%" align="center">
+<td width="50%" valign="top">
 
 ### Understand
 
-Learn how and why each component works.
+Understand how and why each component works.
 
 </td>
 
-<td width="25%" align="center">
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ### Refactor
 
-Improve code when structure becomes unclear.
+Improve code when responsibilities and structure become unclear.
 
 </td>
 
-<td width="25%" align="center">
+<td width="50%" valign="top">
 
-### Repeat
+### Improve
 
-Use every project to improve the next one.
+Use every project as an opportunity to build the next project better.
 
 </td>
 
 </tr>
 </table>
-
-</div>
 
 ---
 
@@ -878,14 +883,14 @@ Use every project to improve the next one.
 
 <img
 width="49%"
-src="https://github-readme-stats.vercel.app/api?username=auliaraditama-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&rank_icon=github"
-alt="GitHub Statistics"
+src="https://github-readme-stats.vercel.app/api?username=auliaraditama-dev&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&rank_icon=github"
+alt="Aulia Raditama GitHub Statistics"
 />
 
 <img
 width="49%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=auliaraditama-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9"
-alt="Top Programming Languages"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=auliaraditama-dev&layout=compact&langs_count=10&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9"
+alt="Aulia Raditama Top Languages"
 />
 
 </div>
@@ -896,8 +901,8 @@ alt="Top Programming Languages"
 
 <img
 width="98%"
-src="https://streak-stats.demolab.com?user=auliaraditama-dev&theme=tokyonight&hide_border=true&background=0D1117"
-alt="GitHub Contribution Streak"
+src="https://streak-stats.demolab.com?user=auliaraditama-dev&theme=tokyonight&hide_border=true&background=0D1117&stroke=2563EB&ring=38BDF8&fire=06B6D4&currStreakLabel=38BDF8"
+alt="Aulia Raditama GitHub Streak"
 />
 
 </div>
@@ -910,15 +915,12 @@ alt="GitHub Contribution Streak"
 
 <img
 width="98%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=auliaraditama-dev&theme=tokyonight&animation=rise"
-alt="GitHub Profile Summary"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=auliaraditama-dev&theme=tokyonight"
+alt="GitHub Profile Details"
 />
 
-</div>
-
 <br>
-
-<div align="center">
+<br>
 
 <img
 width="49%"
@@ -932,11 +934,7 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-langu
 alt="Most Commit Language"
 />
 
-</div>
-
 <br>
-
-<div align="center">
 
 <img
 width="49%"
@@ -946,8 +944,8 @@ alt="GitHub Summary Statistics"
 
 <img
 width="49%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=auliaraditama-dev&theme=tokyonight"
-alt="GitHub Productive Time"
+src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=auliaraditama-dev&theme=tokyonight&utcOffset=7"
+alt="Productive Time"
 />
 
 </div>
@@ -959,9 +957,9 @@ alt="GitHub Productive Time"
 <div align="center">
 
 <img
-src="https://github-profile-trophy.vercel.app/?username=auliaraditama-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=-1"
 width="98%"
-alt="GitHub Profile Trophies"
+src="https://github-profile-trophy.vercel.app/?username=auliaraditama-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=-1"
+alt="Aulia Raditama GitHub Trophies"
 />
 
 </div>
@@ -973,84 +971,32 @@ alt="GitHub Profile Trophies"
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=auliaraditama-dev&theme=tokyo-night&bg_color=0D1117&color=38BDF8&line=2563EB&point=FFFFFF&area=true&hide_border=true"
 width="98%"
-alt="GitHub Contribution Activity Graph"
+src="https://github-readme-activity-graph.vercel.app/graph?username=auliaraditama-dev&bg_color=0D1117&color=38BDF8&line=2563EB&point=FFFFFF&area=true&area_color=1D4ED8&hide_border=true&custom_title=Aulia%20Raditama%20Contribution%20Graph"
+alt="Aulia Raditama GitHub Activity Graph"
 />
 
 </div>
 
 ---
 
-# Contribution Snake
+# Dark Contribution Snake
 
 <div align="center">
 
-<picture>
-
-<source
-media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/auliaraditama-dev/auliaraditama-dev/output/github-contribution-grid-snake-dark.svg"
-/>
-
-<source
-media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/auliaraditama-dev/auliaraditama-dev/output/github-contribution-grid-snake.svg"
-/>
-
 <img
-src="https://raw.githubusercontent.com/auliaraditama-dev/auliaraditama-dev/output/github-contribution-grid-snake.svg"
+src="https://raw.githubusercontent.com/auliaraditama-dev/auliaraditama-dev/output/github-contribution-grid-snake-dark.svg"
 width="100%"
-alt="GitHub Contribution Snake"
+alt="Aulia Raditama Dark Contribution Snake"
 />
-
-</picture>
 
 </div>
-
----
-
-# Development Workflow
-
-```mermaid
-flowchart LR
-    A[Idea] --> B[Planning]
-    B --> C[Requirements]
-    C --> D[Architecture]
-    D --> E[Development]
-    E --> F[Testing]
-    F --> G[Security Check]
-    G --> H[Refactor]
-    H --> I[Git Commit]
-    I --> J[GitHub]
-    J --> K[Review]
-    K --> L[Improve]
-    L --> A
-```
-
----
-
-# Backend Request Flow
-
-```mermaid
-flowchart LR
-    A[Client] --> B[Route]
-    B --> C[Middleware]
-    C --> D[Controller]
-    D --> E[Validation]
-    E --> F[Service]
-    F --> G[Repository / Model]
-    G --> H[(Database)]
-    H --> G
-    G --> F
-    F --> D
-    D --> I[API Resource]
-    I --> J[JSON Response]
-```
 
 ---
 
 # Clean Architecture Goals
+
+<div align="center">
 
 ```text
 Readable
@@ -1068,32 +1014,7 @@ Scalable
 Better Software
 ```
 
----
-
-# My Coding Philosophy
-
-> Simple code is easier to understand.
-> Clean architecture is easier to maintain.
-> Consistent learning creates better software.
-
-Beberapa prinsip yang saya coba terapkan:
-
-* Write code for humans first.
-* Keep responsibilities separated.
-* Avoid unnecessary complexity.
-* Use meaningful naming.
-* Validate data before processing it.
-* Keep controllers focused.
-* Move business logic into the correct layer.
-* Keep database queries efficient.
-* Handle errors intentionally.
-* Keep security in mind from the beginning.
-* Refactor when the structure becomes unclear.
-* Write reusable components when appropriate.
-* Use version control consistently.
-* Document important technical decisions.
-* Learn from every project.
-* Build systems that are easier to maintain tomorrow than they are today.
+</div>
 
 ---
 
@@ -1103,7 +1024,7 @@ Beberapa prinsip yang saya coba terapkan:
 [✓] Clear project structure
 [✓] Consistent naming
 [✓] Separation of concerns
-[✓] Input validation
+[✓] Request validation
 [✓] Authentication
 [✓] Authorization
 [✓] Error handling
@@ -1118,32 +1039,71 @@ Beberapa prinsip yang saya coba terapkan:
 
 ---
 
+# My Coding Philosophy
+
+> Simple code is easier to understand.
+> Clean architecture is easier to maintain.
+> Consistent learning creates better software.
+
+Prinsip yang saya coba terapkan:
+
+* Write code for humans first.
+* Keep responsibilities separated.
+* Avoid unnecessary complexity.
+* Use meaningful naming.
+* Validate data before processing it.
+* Keep controllers focused.
+* Keep business logic in the correct layer.
+* Keep database queries efficient.
+* Handle errors intentionally.
+* Keep security in mind from the beginning.
+* Refactor when structure becomes unclear.
+* Create reusable components when appropriate.
+* Use version control consistently.
+* Document important technical decisions.
+* Learn from every project.
+* Build systems that are easier to maintain tomorrow than today.
+
+---
+
 # Beyond Code
 
 <table>
 <tr>
 
-<td width="33%" align="center" valign="top">
+<td width="50%" valign="top">
 
-## Coffee
+### Coffee
 
-A reliable companion during development sessions.
-
-</td>
-
-<td width="33%" align="center" valign="top">
-
-## Lo-Fi
-
-Background music for focused coding sessions.
+A reliable companion during development and debugging sessions.
 
 </td>
 
-<td width="33%" align="center" valign="top">
+<td width="50%" valign="top">
 
-## Games
+### Lo-Fi
+
+Background music for focused coding and learning sessions.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### Games
 
 Interested in story-rich games, gameplay systems, and immersive game worlds.
+
+</td>
+
+<td width="50%" valign="top">
+
+### Learning
+
+Exploring new programming concepts and improving existing technical knowledge.
 
 </td>
 
@@ -1156,41 +1116,29 @@ Interested in story-rich games, gameplay systems, and immersive game worlds.
 
 <div align="center">
 
-<table>
-<tr>
-
-<td width="50%" align="center" valign="middle">
-
-### Daily Developer Quote
-
 <img
 src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
 alt="Developer Quote"
 />
 
-</td>
-
-<td width="50%" align="center" valign="middle">
+</div>
 
 ### Developer Mode
 
-```text
-while (alive) {
+```javascript
+const developer = {
+    status: "learning",
+    mindset: "continuous improvement"
+};
+
+while (developer.status === "learning") {
     learn();
-    code();
-    create();
+    build();
     test();
     refactor();
     improve();
 }
 ```
-
-</td>
-
-</tr>
-</table>
-
-</div>
 
 ---
 
@@ -1200,59 +1148,51 @@ while (alive) {
 
 <a href="https://www.instagram.com/auulaja_">
   <img
-  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-  alt="Instagram"
+    src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+    alt="Instagram"
   />
 </a>
 
 <a href="https://www.linkedin.com/in/aulia-raditama-0a11a9426/">
   <img
-  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-  alt="LinkedIn"
+    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
   />
 </a>
 
 <a href="https://github.com/auliaraditama-dev">
   <img
-  src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-  alt="GitHub"
+    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
   />
 </a>
 
 <!--
 
-Tambahkan Discord ketika URL tersedia.
+DISCORD
 
 <a href="YOUR_DISCORD_URL">
   <img
-  src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
-  alt="Discord"
+    src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
+    alt="Discord"
   />
 </a>
 
--->
-
-<!--
-
-Tambahkan Facebook ketika URL tersedia.
+FACEBOOK
 
 <a href="YOUR_FACEBOOK_URL">
   <img
-  src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
-  alt="Facebook"
+    src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+    alt="Facebook"
   />
 </a>
 
--->
-
-<!--
-
-Tambahkan X ketika URL tersedia.
+X / TWITTER
 
 <a href="YOUR_X_URL">
   <img
-  src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"
-  alt="X"
+    src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"
+    alt="X"
   />
 </a>
 
@@ -1267,18 +1207,20 @@ Tambahkan X ketika URL tersedia.
 <div align="center">
 
 ```text
-Name        : Aulia Raditama
-Role        : Full Stack Developer
-Focus       : Backend Development
-Framework   : Laravel
-Language    : PHP / JavaScript / Python / GDScript
-Game Engine : Godot 4
-Database    : MySQL / SQLite
-Architecture: MVC / SOLID / Service Layer / Repository Pattern
-Editor      : Visual Studio Code
-Platform    : Windows / Linux
-Learning    : Clean Architecture & Software Design Patterns
-Motto       : Code. Create. Learn. Repeat.
+Name         : Aulia Raditama
+Role         : Full Stack Developer
+Focus        : Backend Development
+Framework    : Laravel
+Languages    : PHP / JavaScript / Python / GDScript
+Frontend     : HTML / CSS / JavaScript / Bootstrap
+Game Engine  : Godot 4
+Database     : MySQL / SQLite
+Architecture : MVC / SOLID / Service Layer / Repository Pattern
+Version Ctrl : Git / GitHub
+Editor       : Visual Studio Code
+Platform     : Windows / Linux
+Learning     : Clean Architecture & Software Design Patterns
+Motto        : Code. Create. Learn. Repeat.
 ```
 
 </div>
@@ -1295,13 +1237,18 @@ alt="Learning and Building"
 />
 
 <img
-src="https://img.shields.io/badge/CURRENT%20FOCUS-LARAVEL-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"
-alt="Current Focus Laravel"
+src="https://img.shields.io/badge/MAIN%20FOCUS-LARAVEL-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"
+alt="Laravel"
+/>
+
+<img
+src="https://img.shields.io/badge/ARCHITECTURE-CLEAN%20CODE-2563EB?style=for-the-badge"
+alt="Clean Architecture"
 />
 
 <img
 src="https://img.shields.io/badge/GAME%20DEV-GODOT%204-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white"
-alt="Godot 4"
+alt="Godot"
 />
 
 </div>
@@ -1312,7 +1259,7 @@ alt="Godot 4"
 
 <img
 src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"
-width="180"
+width="170"
 alt="Coding Animation"
 />
 
@@ -1326,9 +1273,9 @@ alt="Coding Animation"
 <br>
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,35:1E3A8A,70:2563EB,100:06B6D4&height=130&section=footer"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:0F172A,65:1D4ED8,100:06B6D4&height=125&section=footer"
 width="100%"
-alt="Aulia Raditama Profile Footer"
+alt="Footer"
 />
 
 </div>
