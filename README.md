@@ -354,32 +354,6 @@ flowchart LR
 
 # GitHub Statistics
 
-<table width="100%">
-<tr>
-
-<td width="50%" valign="top">
-
-<img
-width="100%"
-src="https://github-readme-stats.vercel.app/api?username=auliaraditama-dev&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&rank_icon=github"
-alt="GitHub Statistics"
-/>
-
-</td>
-
-<td width="50%" valign="top">
-
-<img
-width="100%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=auliaraditama-dev&layout=compact&langs_count=10&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9"
-alt="Top Languages"
-/>
-
-</td>
-
-</tr>
-</table>
-
 <img
 width="100%"
 src="https://streak-stats.demolab.com?user=auliaraditama-dev&theme=tokyonight&hide_border=true&background=0D1117&stroke=2563EB&ring=38BDF8&fire=06B6D4&currStreakLabel=38BDF8"
