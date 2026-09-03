@@ -448,34 +448,6 @@ alt="Productive Time"
 
 ---
 
-<a id="activity"></a>
-
-# Trophies & Activity
-
-<img
-width="100%"
-src="https://github-profile-trophy.vercel.app/?username=auliaraditama-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=-1"
-alt="GitHub Trophies"
-/>
-
-<img
-width="100%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=auliaraditama-dev&bg_color=0D1117&color=38BDF8&line=2563EB&point=FFFFFF&area=true&area_color=1D4ED8&hide_border=true&custom_title=Aulia%20Raditama%20Contribution%20Graph"
-alt="GitHub Activity Graph"
-/>
-
----
-
-# Contribution Snake
-
-<img
-src="https://raw.githubusercontent.com/auliaraditama-dev/auliaraditama-dev/output/github-contribution-grid-snake-dark.svg"
-width="100%"
-alt="GitHub Contribution Snake"
-/>
-
----
-
 # Vibes & Status
 
 <table width="100%">
