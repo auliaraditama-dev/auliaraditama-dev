@@ -137,7 +137,7 @@ Mempelajari pengembangan game dan reusable gameplay systems menggunakan:
 <p align="left">
 
 <img
-src="https://skillicons.dev/icons?i=php,laravel,js,python,html,css,bootstrap,mysql,sqlite,git,github,vscode,godot,linux"
+src="https://skillicons.dev/icons?i=php,laravel,js,python,html,css,bootstrap,mysql,sqlite,git,github,vscode,godot,linux,go, vue"
 alt="Technology Stack"
 />
 
